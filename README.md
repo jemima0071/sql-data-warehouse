@@ -30,3 +30,6 @@ Customer Analysis
 Product Performance Analysis
 Sales Trend Analysis
 Revenue & KPI Reporting
+
+# About me
+🌻 Guided by faith, driven by curiosity and committed to continuous growth.
