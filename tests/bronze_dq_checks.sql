@@ -16,7 +16,7 @@ Script Purpose:
 
 Usage Notes:
 
-    - Run these checks after data loading Silver Layer.
+    - Run these checks after data loading Bronze Layer.
     - Investigate and resolve any discrepancies found during the checks.
 
 ==============================================================================
