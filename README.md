@@ -19,8 +19,9 @@ Power BI
 
 # Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers.
-
-docs/data_architecture.png
+<p align="center">
+  docs/data_architecture.png
+</p>
 
 
 # Key Deliverables
