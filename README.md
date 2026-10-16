@@ -19,8 +19,7 @@ Power BI
 
 # Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers.
-
-docs/data_architecture.png
+![image alt](https://github.com/jemima0071/sql-data-warehouse/blob/6d4af57f52132f0a317230257dd23ad749f0b469/docs/data_architecture.png)
 
 # Key Deliverables
 Data Warehouse Design
