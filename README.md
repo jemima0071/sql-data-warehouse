@@ -17,6 +17,12 @@ ETL
 Power BI
 
 
+# Data Architecture
+The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers.
+
+docs/data_architecture.png
+
+
 # Key Deliverables
 Data Warehouse Design
 ETL Process
